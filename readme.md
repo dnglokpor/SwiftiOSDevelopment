@@ -6,8 +6,8 @@
 This repos contains projects created test projects done as part of learning Swift/SwiftUI while following tutorial courses online (see ref section). These are practice projects and offer little reusability.
 
 ## References:
-1. [**100 Days of SwuiftUI**] <https://hackingwithswift.com/100/swiftui>
-2. [**App Clips for iOS: Getting Started**] <https://raywenderlich.com/14455571-app-clips>
+1. [**100 Days of SwuiftUI**] [<https://hackingwithswift.com/100/swiftui>]
+2. [**App Clips for iOS: Getting Started**] [<https://raywenderlich.com/14455571-app-clips>]
 
 ## Important Notice:
 Some of the projects in this repo contain materials provided by the tutorial creators. These files are owned by their creators and therefore available under the license they provided them with. 
